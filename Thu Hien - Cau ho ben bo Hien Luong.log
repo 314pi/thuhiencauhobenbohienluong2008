@@ -1,0 +1,181 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 20. April 2010, 19:13
+
+Thu Hien / Cau ho ben bo Hien Luong
+
+Used drive  : ASUS    DRW-1608P3S   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 48
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 768 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Program Files\Exact Audio Copy\FLAC\FLAC.EXE
+Additional command line options : -8 -V -T "ARTIST=%a" -T "TITLE=%t" -T "ALBUM=%g" -T "DATE=%y" -T "TRACKNUMBER=%n" -T "TOTALTRACKS=%x" -T "GENRE=%m" -T "ALBUM ARTIST=%v" -T "ALBUMARTIST=%v" -T "COMMENT=L2Bits, EAC V0.99 prebeta 5, Secure Mode, Test & Copy,
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:20.53 |         0    |    15052   
+        2  |  3:20.53 |  4:29.01 |     15053    |    35228   
+        3  |  7:49.54 |  3:20.14 |     35229    |    50242   
+        4  | 11:09.68 |  4:32.08 |     50243    |    70650   
+        5  | 15:42.01 |  3:16.14 |     70651    |    85364   
+        6  | 18:58.15 |  4:30.67 |     85365    |   105681   
+        7  | 23:29.07 |  4:28.21 |    105682    |   125802   
+        8  | 27:57.28 |  5:08.11 |    125803    |   148913   
+        9  | 33:05.39 |  4:58.69 |    148914    |   171332   
+       10  | 38:04.33 |  3:10.52 |    171333    |   185634   
+
+
+Track  1
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\01 - Hai chi em , Hoang Van .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 100.0 %
+     Test CRC 7D6A247D
+     Copy CRC 7D6A247D
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\02 - Bai ca ben canh vong , Nguyen Nhung .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 100.0 %
+     Test CRC D798BA9F
+     Copy CRC D798BA9F
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\03 - Co gai mo duong , Xuan Giao .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 100.0 %
+     Test CRC A2E49DC4
+     Copy CRC A2E49DC4
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\04 - Loi nguoi ra di , Tran Hoan .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 100.0 %
+     Test CRC B783914B
+     Copy CRC B783914B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\05 - Nguoi Chau Yen em ban may bay , Trong Loan .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 100.0 %
+     Test CRC 1E8B4E03
+     Copy CRC 1E8B4E03
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\06 - Len ngan , Hoang Viet .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 100.0 %
+     Test CRC A61C0845
+     Copy CRC A61C0845
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\07 - Nguoi con gai Paco , Tri Thanh .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 99.9 %
+     Test CRC DFB92F51
+     Copy CRC DFB92F51
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\08 - Noi trong len nui rung oi , Hoang Van .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 99.9 %
+     Test CRC EC464AEC
+     Copy CRC EC464AEC
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\09 - Cau ho ben bo Hien Luong , Hoang Hiep - Dang Giao .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 100.0 %
+     Test CRC 39F7F4E8
+     Copy CRC 39F7F4E8
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename G:\TLA - Lossless\Thu Hien - Cau ho ben bo Hien Luong (2008) [FLAC]\10 - Cuoc doi van dep sao , Phan Huynh Dieu, tho Duong Huong Ly .wav
+
+     Pre-gap length  0:00:02.00
+
+     Peak level 94.4 %
+     Track quality 100.0 %
+     Test CRC FA5EA1A1
+     Copy CRC FA5EA1A1
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
